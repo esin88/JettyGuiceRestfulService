@@ -5,6 +5,8 @@ Minimalistic RESTful web server based on
 - jboss.resteasy
 - guice
 
+This configuration is very flexible for REST API web service. Each module is independent and flexible in terms of dependencies.
+
 # ModuleContextListener
 
 Main context listener, where you can add guice modules of your web service.
